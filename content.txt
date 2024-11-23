@@ -1,0 +1,6 @@
+'Gostaria de expressar meus sinceros agradecimentos pela participação de todos. Foi um prazer contar com a presença de cada um de vocês. Desejo a todos muito sucesso nos estudos e nas provas de certificação que estão por vir, especialmente aquelas relacionadas à inteligência artificial. Que todos alcancem seus objetivos e conquistem grandes realizações nessa jornada. Boa sorte e continuem se dedicando com empenho e determinação!\nHoje, destacamos o serviço de Document Intelligence, uma ferramenta poderosa que transforma a maneira como gerenciamos e processamos documentos. Utilizando técnicas avançadas de inteligência artificial, o Document Intelligence permite a extração automática de dados importantes de documentos digitais e impressos, agilizando processos e reduzindo erros manuais. Esse serviço é fundamental para empresas que buscam otimizar suas operações e melhorar a precisão na análise de informações. Com a capacidade de reconhecer textos, tabelas, imagens e outros elementos, o Document Intelligence é uma solução completa para a gestão eficiente de documentos.\nEspero que todos aproveitem ao máximo o aprendizado sobre Document Intelligence e apliquem esses conhecimentos para alcançar grandes resultados!
+\n
+Lista de participantes:\n
+Data\nNome\nID\n
+18-novembro\nFelipe\n1\n
+19-novembro\nLucas\n2'
